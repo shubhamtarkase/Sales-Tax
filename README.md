@@ -3,4 +3,5 @@ This project is a Tax Calculator and Receipt Generator designed to demonstrate O
 
 # To Run:
 1. Clone project Sales-App using https://github.com/shubhamtarkase/Sales-Tax link.
-2. Run Main.java file.
+2. Switch/Checkout master branch.
+3. Run Main.java file.
